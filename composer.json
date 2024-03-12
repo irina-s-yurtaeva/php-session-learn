@@ -1,0 +1,16 @@
+{
+    "name": "irina-s-yurtaeva/php-session-learn",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "IrinaSYurtaeva\\PhpSessionLearn\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Irina Yurtaeva",
+            "email": "irina.s.yurtaeva@gmail.com"
+        }
+    ],
+    "require": {}
+}
