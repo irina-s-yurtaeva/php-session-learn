@@ -6,16 +6,13 @@
             "IrinaSYurtaeva\\PhpSessionLearn\\": "src/"
         }
     },
-    "config": {
-        "platform": {
-            "php": ">=7.0"
-        }
-    },
     "authors": [
         {
             "name": "Irina Yurtaeva",
             "email": "irina.s.yurtaeva@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">=7.0"
+    }
 }
